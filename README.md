@@ -61,6 +61,7 @@
 在名为禾乡的古老村落，因青壮年持续外出务工逐渐走向衰落，大片农田荒废、乡土传统技艺濒临失传。玩家将扮演返乡青年，受村长委托，凭借现代农业技术与文化创新思路，带领村民盘活村落资源，一步步将禾乡打造为远近闻名的「特色农产品创业示范村」，实现乡村的全面振兴。
 
 <img width="1247" height="799" alt="image" src="https://github.com/user-attachments/assets/fa882eb5-ead4-4f97-b25a-6c11aab90ab3" />
+<img width="711" height="573" alt="image" src="https://github.com/user-attachments/assets/5a72118b-d128-439f-99d7-bd7d963a2f6c" />
 
 
 ## 五、核心玩法与系统设计
