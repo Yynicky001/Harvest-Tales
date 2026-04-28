@@ -88,7 +88,8 @@
 - 商店提供种子、农具、鱼饵等全品类道具，支持玩家购买与出售物品
 - 玩家可通过出售成熟农作物、钓获的鱼获获取金币，金币可用于购买生产资料、扩充经营规模
 - 完整的经济循环闭环，通过商品买卖的差价实现财富积累，推动农庄发展与游戏进度推进
-- ![image-20260425163609286](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163609286.png)
+<img width="1013" height="703" alt="image" src="https://github.com/user-attachments/assets/b2bc45dc-9ed3-4b9b-9601-9347134cd540" />
+
 
 ### 4. NPC交互与任务系统
 
@@ -101,7 +102,8 @@
 - 完整的昼夜轮换机制，游戏内时间、季节、天气实时显示在UI界面
 - 可自定义昼夜时长，不同时段对应专属天空盒材质，营造沉浸式时间流逝体验
 - 随机天气系统（如下雨），天气变化会直接影响作物生长速度，丰富玩法随机性
-- ![image-20260425163737127](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163737127.png)
+<img width="1201" height="811" alt="image" src="https://github.com/user-attachments/assets/26b000ef-d9cb-4d2e-831f-c115d4c39b6d" />
+
 
 ### 6. 野兽驱赶系统
 
@@ -111,9 +113,12 @@
 
 - 基于碰撞检测技术实现道具与野兽的交互，触发对应的驱赶反馈与奖励机制
 
-  ![image-20260425163633612](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163633612.png)
+<img width="968" height="530" alt="image" src="https://github.com/user-attachments/assets/e3abf5f9-585f-439b-8420-f7b1604664eb" />
 
-- ![image-20260425163450981](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163450981.png)
+### 7. 开发场景展示
+
+<img width="1014" height="597" alt="image" src="https://github.com/user-attachments/assets/1e7ba57a-93a5-487c-a7a0-a5df98fb294e" />
+
 
 ## 六、基础操作说明
 
