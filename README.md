@@ -13,7 +13,7 @@
 
 项目除游戏本体开发外，未来规划搭建数字农场，实现产教融合，助力不同地域季节性农产品的推广与销售，让游戏的社会价值从虚拟延伸至现实。
 
-![image-20260425163346812](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163346812.png)
+<img width="951" height="280" alt="image-20260425163346812" src="https://github.com/user-attachments/assets/b161599a-897e-4795-994d-df67d0279dbf" />
 
 ## 二、核心技术栈
 
@@ -23,8 +23,8 @@
 | 脚本语言 | C#                                                           |
 | 开发工具 | Visual Studio 2019                                           |
 | 核心技术 | 3D实时渲染、物理碰撞检测系统、对话树式NPC交互系统、昼夜与动态气候系统、数据驱动的道具与任务系统 |
+<img width="652" height="228" alt="image-20260425163414735" src="https://github.com/user-attachments/assets/9dcf7047-846d-472b-ad90-d7fc749e714e" />
 
-![image-20260425163414735](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163414735.png)
 
 ### 引擎核心能力应用
 
@@ -34,7 +34,8 @@
 
 3. 物理引擎：实现角色与场景、物体的真实碰撞交互，杜绝穿模，增强游戏真实感
 
-   ![image-20260425163433984](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163433984.png)
+<img width="399" height="255" alt="image-20260425163433984" src="https://github.com/user-attachments/assets/ea8119c3-fd0a-49e4-b22d-99cc5fe42882" />
+
 
 4. 动画系统：实现角色自然的行走、交互动作，以及NPC对话中的表情与肢体动画
 
@@ -61,7 +62,8 @@
 
 在名为禾乡的古老村落，因青壮年持续外出务工逐渐走向衰落，大片农田荒废、乡土传统技艺濒临失传。玩家将扮演返乡青年，受村长委托，凭借现代农业技术与文化创新思路，带领村民盘活村落资源，一步步将禾乡打造为远近闻名的「特色农产品创业示范村」，实现乡村的全面振兴。
 
-![image-20260425163523861](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163523861.png)
+<img width="1247" height="799" alt="image" src="https://github.com/user-attachments/assets/fa882eb5-ead4-4f97-b25a-6c11aab90ab3" />
+
 
 ## 五、核心玩法与系统设计
 
