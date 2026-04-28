@@ -1,5 +1,5 @@
 # Harvest-Tales
-![image-20260425163324798](C:\Users\唐锦琦\AppData\Roaming\Typora\typora-user-images\image-20260425163324798.png)
+<img width="582" height="186" alt="image-20260425163324798" src="https://github.com/user-attachments/assets/7950b436-9842-4435-a39b-f0a52635b493" />
 
 # 禾兴时光 Harvest Tales
 
