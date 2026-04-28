@@ -1,6 +1,4 @@
 # Harvest-Tales
-<img width="582" height="186" alt="image-20260425163324798" src="https://github.com/user-attachments/assets/7950b436-9842-4435-a39b-f0a52635b493" />
-
 # 禾兴时光 Harvest Tales
 
 > 基于Unity引擎开发的乡村主题休闲治愈模拟经营游戏，融合休闲玩法与乡村振兴社会价值，打造沉浸式田园生活体验
