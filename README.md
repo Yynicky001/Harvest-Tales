@@ -106,11 +106,11 @@
 ### 6. 野兽驱赶系统
 
 - 地图内会随机刷新野兽，模拟现实中农户面临的野生动物侵扰场景
+<img width="1253" height="649" alt="image" src="https://github.com/user-attachments/assets/c58dfad7-70b4-429b-91a7-722ee723e493" />
 
 - 玩家可在商店购买对应道具，对野兽进行驱赶，保护农田与作物
 
 - 基于碰撞检测技术实现道具与野兽的交互，触发对应的驱赶反馈与奖励机制
-
 <img width="968" height="530" alt="image" src="https://github.com/user-attachments/assets/e3abf5f9-585f-439b-8420-f7b1604664eb" />
 
 ### 7. 开发场景展示
